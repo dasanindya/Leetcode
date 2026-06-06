@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 2
+- **Total Problems Solved:** 3
 - **Easy:** 1 🟢
-- **Medium:** 1 🟡
+- **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
