@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 4
-- **Easy:** 2 🟢
+- **Total Problems Solved:** 5
+- **Easy:** 3 🟢
 - **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2024800035/) | 🟢 Easy | python3 | 2026-06-07 |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2024804456/) | 🟢 Easy | python3 | 2026-06-07 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2024768960/) | 🟢 Easy | python3 | 2026-06-06 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
