@@ -1,7 +1,7 @@
 #
 # Problem: 704. Binary Search
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/binary-search/
+# Link: https://leetcode.com/problems/binary-search/submissions/2025291636/
 # Language: python3
 # Date: 2026-06-07
 
@@ -27,6 +27,25 @@ class Solution:
                 
         # If left > right, the target does not exist in the array
         return -1
+
+    # # recursion
+    # def search(self, nums: list[int], target: int) -> int:
+    #     # Helper function tracking the explicit boundary pointers
+    #     def binary_search(left: int, right: int) -> int:
+    #         # Base Case: Target is not present
+    #         if left > right:
+    #             return -1
+            
+    #         mid = (left + right) // 2
+            
+    #         if nums[mid] == target:
+    #             return mid
+    #         elif nums[mid] > target:
+    #             return binary_search(left, mid - 1) # Search left
+    #         else:
+    #             return binary_search(mid + 1, right) # Search right
+
+    #     return binary_search(0, len(nums) - 1)
 
 
 
