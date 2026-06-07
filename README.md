@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 6
+- **Total Problems Solved:** 7
 - **Easy:** 3 🟢
-- **Medium:** 3 🟡
+- **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2024804456/) | 🟢 Easy | python3 | 2026-06-07 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2024768960/) | 🟢 Easy | python3 | 2026-06-06 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | python3 | 2026-06-07 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
 
