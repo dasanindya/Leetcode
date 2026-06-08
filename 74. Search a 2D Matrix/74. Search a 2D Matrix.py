@@ -1,7 +1,7 @@
 #
 # Problem: 74. Search a 2D Matrix
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/
+# Link: https://leetcode.com/problems/search-a-2d-matrix/submissions/2026507556/
 # Language: python3
 # Date: 2026-06-08
 
@@ -9,7 +9,7 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         if not matrix or not matrix[0]:
-            return None
+            return False
         
         rows, cols = len(matrix), len(matrix[0])
         lo, hi = 0, rows*cols-1
