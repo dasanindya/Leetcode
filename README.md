@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 8
-- **Easy:** 5 🟢
+- **Total Problems Solved:** 9
+- **Easy:** 6 🟢
 - **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/2025458714/) | 🟢 Easy | python3 | 2026-06-07 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2024804456/) | 🟢 Easy | python3 | 2026-06-07 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2024768960/) | 🟢 Easy | python3 | 2026-06-06 |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | python3 | 2026-06-08 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | python3 | 2026-06-07 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
