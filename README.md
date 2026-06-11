@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 16
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 17
+- **Easy:** 10 🟢
 - **Medium:** 7 🟡
 - **Hard:** 0 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2024768960/) | 🟢 Easy | python3 | 2026-06-06 |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | python3 | 2026-06-08 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/2026779426/) | 🟢 Easy | python3 | 2026-06-08 |
+| [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2029147969/) | 🟢 Easy | python3 | 2026-06-11 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | python3 | 2026-06-07 |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2026774899/) | 🟢 Easy | python3 | 2026-06-08 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
