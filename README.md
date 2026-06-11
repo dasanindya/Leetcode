@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 10 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 11 🟢
 - **Medium:** 7 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2026490102/) | 🟢 Easy | python3 | 2026-06-08 |
+| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/submissions/2029169070/) | 🟢 Easy | python3 | 2026-06-11 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2024800035/) | 🟢 Easy | python3 | 2026-06-07 |
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/2025458714/) | 🟢 Easy | python3 | 2026-06-07 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2024804456/) | 🟢 Easy | python3 | 2026-06-07 |
