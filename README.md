@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 19
+- **Total Problems Solved:** 20
 - **Easy:** 11 🟢
-- **Medium:** 8 🟡
+- **Medium:** 9 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | python3 | 2026-06-08 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/) | 🟡 Medium | python3 | 2026-06-08 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
+| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | python3 | 2026-06-11 |
 
 ---
 
