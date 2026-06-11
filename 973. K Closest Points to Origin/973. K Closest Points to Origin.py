@@ -1,7 +1,7 @@
 #
 # Problem: 973. K Closest Points to Origin
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/
+# Link: https://leetcode.com/problems/k-closest-points-to-origin/
 # Language: python3
 # Date: 2026-06-11
 
@@ -14,7 +14,7 @@ class Solution:
         distance_heap = []
         
         # 1. Initialize the heap with the first K points
-        for x, y in points[:k]:
+        for x, y in points[:k]:   # extra slice memory can be optimized
             # Use **2, and skip math.sqrt()
             # Negate the score to simulate a Max-Heap
             dist = -(x**2 + y**2)
@@ -33,6 +33,16 @@ class Solution:
         
         # Extract the raw coordinate lists from the heap structures
         return [point_info[1] for point_info in distance_heap]
+
+
+        # heap = []
+        # for x, y in points:
+        #     dist = x * x + y * y
+        #     if len(heap) < k:
+        #         heapq.heappush(heap, (-dist, [x, y]))
+        #     elif -dist > heap[0][0]:   # equivalent to dist < current farthest
+        #         heapq.heapreplace(heap, (-dist, [x, y]))
+        # return [point for _, point in heap]
 
 
         
