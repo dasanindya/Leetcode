@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 23
+- **Total Problems Solved:** 24
 - **Easy:** 11 🟢
-- **Medium:** 12 🟡
+- **Medium:** 13 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/submissions/2030540774/) | 🟡 Medium | python3 | 2026-06-12 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-06-08 |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2030554361/) | 🟡 Medium | python3 | 2026-06-12 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
