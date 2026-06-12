@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 24
+- **Total Problems Solved:** 25
 - **Easy:** 11 🟢
-- **Medium:** 13 🟡
+- **Medium:** 14 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | python3 | 2026-06-08 |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031037381/) | 🟡 Medium | python3 | 2026-06-12 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/) | 🟡 Medium | python3 | 2026-06-08 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/2030325125/) | 🟡 Medium | python3 | 2026-06-12 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
