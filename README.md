@@ -38,7 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/) | 🟡 Medium | python3 | 2026-06-08 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/2030325125/) | 🟡 Medium | python3 | 2026-06-12 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
-| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | python3 | 2026-06-11 |
+
 
 ---
 
