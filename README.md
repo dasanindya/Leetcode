@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 26
+- **Total Problems Solved:** 27
 - **Easy:** 11 🟢
-- **Medium:** 15 🟡
+- **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032228175/) | 🟡 Medium | python3 | 2026-06-14 |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229550/) | 🟡 Medium | python3 | 2026-06-14 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | python3 | 2026-06-08 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031037381/) | 🟡 Medium | python3 | 2026-06-12 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031038713/) | 🟡 Medium | python3 | 2026-06-12 |
