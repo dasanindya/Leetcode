@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
+- **Total Problems Solved:** 27
 - **Easy:** 11 🟢
-- **Medium:** 17 🟡
+- **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2030554361/) | 🟡 Medium | python3 | 2026-06-12 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
+| [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032408551/?envType=daily-question&envId=2026-06-14) | 🟡 Medium | python3 | 2026-06-14 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229918/) | 🟡 Medium | python3 | 2026-06-14 |
