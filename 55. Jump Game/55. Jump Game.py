@@ -1,16 +1,17 @@
 #
 # Problem: 55. Jump Game
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/jump-game/submissions/2032229550/
+# Link: https://leetcode.com/problems/jump-game/submissions/2032229918/
 # Language: python3
 # Date: 2026-06-14
 
 
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        
+
         max_reach = 0
         
+        # Greedy approach to track the maximum reachable index as we iterate through the array.
         for i in range(len(nums)):
             # If the current index is further than anything we can reach, we are stuck
             if i > max_reach:
