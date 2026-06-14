@@ -1,7 +1,7 @@
 #
 # Problem: 55. Jump Game
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/jump-game/submissions/2032228175/
+# Link: https://leetcode.com/problems/jump-game/submissions/2032229550/
 # Language: python3
 # Date: 2026-06-14
 
