@@ -32,8 +32,6 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
-| [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032228175/) | 🟡 Medium | python3 | 2026-06-14 |
-| [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229550/) | 🟡 Medium | python3 | 2026-06-14 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229918/) | 🟡 Medium | python3 | 2026-06-14 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | python3 | 2026-06-08 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031037381/) | 🟡 Medium | python3 | 2026-06-12 |
