@@ -35,7 +35,6 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229918/) | 🟡 Medium | python3 | 2026-06-14 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | python3 | 2026-06-08 |
-| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031037381/) | 🟡 Medium | python3 | 2026-06-12 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031038713/) | 🟡 Medium | python3 | 2026-06-12 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/) | 🟡 Medium | python3 | 2026-06-08 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/2030325125/) | 🟡 Medium | python3 | 2026-06-12 |
