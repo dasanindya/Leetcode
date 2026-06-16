@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 31
+- **Total Problems Solved:** 32
 - **Easy:** 14 🟢
-- **Medium:** 17 🟡
+- **Medium:** 18 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2026774899/) | 🟢 Easy | python3 | 2026-06-08 |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/submissions/2030540774/) | 🟡 Medium | python3 | 2026-06-12 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2034977089/) | 🟡 Medium | python3 | 2026-06-16 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-06-08 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2030554361/) | 🟡 Medium | python3 | 2026-06-12 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
