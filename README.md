@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 29
-- **Easy:** 12 🟢
+- **Total Problems Solved:** 30
+- **Easy:** 13 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/2025458714/) | 🟢 Easy | python3 | 2026-06-07 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2024804456/) | 🟢 Easy | python3 | 2026-06-07 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2034778480/) | 🟢 Easy | python3 | 2026-06-16 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2034910893/) | 🟢 Easy | python3 | 2026-06-16 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2024768960/) | 🟢 Easy | python3 | 2026-06-06 |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | python3 | 2026-06-08 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/2026779426/) | 🟢 Easy | python3 | 2026-06-08 |
