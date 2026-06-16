@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 11 🟢
-- **Medium:** 16 🟡
+- **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | python3 | 2026-06-15 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032408551/?envType=daily-question&envId=2026-06-14) | 🟡 Medium | python3 | 2026-06-14 |
+| [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229918/) | 🟡 Medium | python3 | 2026-06-14 |
