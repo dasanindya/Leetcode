@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
+- **Total Problems Solved:** 34
 - **Easy:** 14 🟢
-- **Medium:** 19 🟡
+- **Medium:** 20 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2029147969/) | 🟢 Easy | python3 | 2026-06-11 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | python3 | 2026-06-07 |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2026774899/) | 🟢 Easy | python3 | 2026-06-08 |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/2035780757/) | 🟡 Medium | python3 | 2026-06-17 |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/submissions/2030540774/) | 🟡 Medium | python3 | 2026-06-12 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2034977089/) | 🟡 Medium | python3 | 2026-06-16 |
