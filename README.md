@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 32
+- **Total Problems Solved:** 33
 - **Easy:** 14 🟢
-- **Medium:** 18 🟡
+- **Medium:** 19 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | python3 | 2026-06-15 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
+| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/2035747611/) | 🟡 Medium | python3 | 2026-06-17 |
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032408551/?envType=daily-question&envId=2026-06-14) | 🟡 Medium | python3 | 2026-06-14 |
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
