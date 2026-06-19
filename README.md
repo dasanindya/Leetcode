@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 36
-- **Easy:** 14 🟢
+- **Total Problems Solved:** 37
+- **Easy:** 15 🟢
 - **Medium:** 21 🟡
 - **Hard:** 1 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2024800035/) | 🟢 Easy | python3 | 2026-06-07 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2034951662/) | 🟢 Easy | python3 | 2026-06-16 |
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/2025458714/) | 🟢 Easy | python3 | 2026-06-07 |
+| [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/submissions/2038128244/?envType=daily-question&envId=2026-06-19) | 🟢 Easy | python3 | 2026-06-19 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2024804456/) | 🟢 Easy | python3 | 2026-06-07 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2034778480/) | 🟢 Easy | python3 | 2026-06-16 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2034910893/) | 🟢 Easy | python3 | 2026-06-16 |
