@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 37
+- **Total Problems Solved:** 38
 - **Easy:** 15 🟢
 - **Medium:** 21 🟡
-- **Hard:** 1 🔴
+- **Hard:** 2 🔴
 
 ## 📝 Problems
 
@@ -49,6 +49,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/) | 🟡 Medium | python3 | 2026-06-08 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/2030325125/) | 🟡 Medium | python3 | 2026-06-12 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
+| [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/submissions/2039313311/?envType=daily-question&envId=2026-06-20) | 🔴 Hard | python3 | 2026-06-20 |
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2037331530/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | python3 | 2026-06-18 |
 
 ---
