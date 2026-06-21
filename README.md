@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 38
+- **Total Problems Solved:** 39
 - **Easy:** 15 🟢
-- **Medium:** 21 🟡
+- **Medium:** 22 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2038038573/?envType=daily-question&envId=2026-06-18) | 🟡 Medium | python3 | 2026-06-18 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2034977089/) | 🟡 Medium | python3 | 2026-06-16 |
+| [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2040987681/?envType=daily-question&envId=2026-06-21) | 🟡 Medium | python3 | 2026-06-21 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-06-08 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2030554361/) | 🟡 Medium | python3 | 2026-06-12 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
