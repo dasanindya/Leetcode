@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 39
-- **Easy:** 15 🟢
+- **Total Problems Solved:** 40
+- **Easy:** 16 🟢
 - **Medium:** 22 🟡
 - **Hard:** 2 🔴
 
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2026490102/) | 🟢 Easy | python3 | 2026-06-08 |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/submissions/2029169070/) | 🟢 Easy | python3 | 2026-06-11 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2024800035/) | 🟢 Easy | python3 | 2026-06-07 |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041597310/) | 🟢 Easy | python3 | 2026-06-22 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2034951662/) | 🟢 Easy | python3 | 2026-06-16 |
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/2025458714/) | 🟢 Easy | python3 | 2026-06-07 |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/submissions/2038128244/?envType=daily-question&envId=2026-06-19) | 🟢 Easy | python3 | 2026-06-19 |
