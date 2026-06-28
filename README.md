@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Easy:** 16 🟢
-- **Medium:** 23 🟡
+- **Medium:** 24 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -46,6 +46,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2048362030/) | 🟡 Medium | python3 | 2026-06-28 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/2032229918/) | 🟡 Medium | python3 | 2026-06-14 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | python3 | 2026-06-08 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031038713/) | 🟡 Medium | python3 | 2026-06-12 |
