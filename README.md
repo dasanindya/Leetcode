@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Easy:** 16 🟢
-- **Medium:** 24 🟡
+- **Medium:** 25 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -42,6 +42,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/2035747611/) | 🟡 Medium | python3 | 2026-06-17 |
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032408551/?envType=daily-question&envId=2026-06-14) | 🟡 Medium | python3 | 2026-06-14 |
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2058619006/) | 🟡 Medium | python3 | 2026-07-07 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/2044173533/) | 🟡 Medium | python3 | 2026-06-24 |
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
