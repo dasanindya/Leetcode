@@ -1,9 +1,9 @@
 #
 # Problem: 213. House Robber II
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/house-robber-ii/submissions/2035747611/
+# Link: https://leetcode.com/problems/house-robber-ii/submissions/2066052662/
 # Language: python3
-# Date: 2026-06-17
+# Date: 2026-07-13
 
 
 class Solution:
@@ -24,6 +24,7 @@ class Solution:
                 prev1 = curr
             return prev1
 
-        # The answer is the best option between skipping the last house 
-        # or skipping the first house
+        # The answer is the best option between 
+        # skipping the last house or
+        # skipping the first house
         return max(rob_linear(nums[:-1]), rob_linear(nums[1:]))
