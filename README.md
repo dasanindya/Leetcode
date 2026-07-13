@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 43
+- **Total Problems Solved:** 44
 - **Easy:** 16 🟢
-- **Medium:** 25 🟡
+- **Medium:** 26 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | python3 | 2026-06-15 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/2035747611/) | 🟡 Medium | python3 | 2026-06-17 |
+| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/2066052662/) | 🟡 Medium | python3 | 2026-07-13 |
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032408551/?envType=daily-question&envId=2026-06-14) | 🟡 Medium | python3 | 2026-06-14 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2058619006/) | 🟡 Medium | python3 | 2026-07-07 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/2044173533/) | 🟡 Medium | python3 | 2026-06-24 |
