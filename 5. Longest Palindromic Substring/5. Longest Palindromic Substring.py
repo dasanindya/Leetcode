@@ -1,7 +1,7 @@
 #
 # Problem: 5. Longest Palindromic Substring
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/longest-palindromic-substring/submissions/2067260133/
+# Link: https://leetcode.com/problems/longest-palindromic-substring/submissions/2067260928/
 # Language: python3
 # Date: 2026-07-14
 
@@ -11,26 +11,28 @@ class Solution:
         if not s:
             return ""
         
-        # Base case: a single character is always a palindrome of length 1
-        start_idx = 0
-        pal_len = 1
+        start, end = 0, 0
         
-        for i in range(1, len(s)):
-            # Check 1: Can we extend the palindrome length by 2?
-            # This looks at a substring of length (pal_len + 2) ending at index i
-            if i - pal_len - 1 >= 0:
-                sub = s[i - pal_len - 1 : i + 1]
-                if sub == sub[::-1]:
-                    start_idx = i - pal_len - 1
-                    pal_len += 2
-                    continue  # Move to next character if we found a longer one
+        def expand_around_center(left: int, right: int) -> int:
+            # Expand outwards as long as characters match and boundaries are valid
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                left -= 1
+                right += 1
+            # Return the length of the palindrome found
+            return right - left - 1
+
+        for i in range(len(s)):
+            # Case 1: Odd length palindromes (center is s[i])
+            len1 = expand_around_center(i, i)
+            # Case 2: Even length palindromes (center is between s[i] and s[i+1])
+            len2 = expand_around_center(i, i + 1)
             
-            # Check 2: Can we extend the palindrome length by 1?
-            # This looks at a substring of length (pal_len + 1) ending at index i
-            if i - pal_len >= 0:
-                sub = s[i - pal_len : i + 1]
-                if sub == sub[::-1]:
-                    start_idx = i - pal_len
-                    pal_len += 1
-                    
-        return s[start_idx : start_idx + pal_len]
+            # Find the max length from this center
+            max_len = max(len1, len2)
+            
+            # Update the absolute longest bounds if a larger one is found
+            if max_len > (end - start):
+                start = i - (max_len - 1) // 2
+                end = i + max_len // 2
+                
+        return s[start : end + 1]
