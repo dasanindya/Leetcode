@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 45
+- **Total Problems Solved:** 46
 - **Easy:** 16 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/2031038713/) | 🟡 Medium | python3 | 2026-06-12 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2026506698/) | 🟡 Medium | python3 | 2026-06-08 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/2030325125/) | 🟡 Medium | python3 | 2026-06-12 |
+| [91. Decode Ways](https://leetcode.com/problems/decode-ways/submissions/2067967261/) | 🟡 Medium | python3 | 2026-07-15 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/submissions/2039313311/?envType=daily-question&envId=2026-06-20) | 🔴 Hard | python3 | 2026-06-20 |
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2037331530/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | python3 | 2026-06-18 |
