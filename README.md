@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 46
+- **Total Problems Solved:** 47
 - **Easy:** 16 🟢
-- **Medium:** 28 🟡
+- **Medium:** 29 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -47,6 +47,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/2044173533/) | 🟡 Medium | python3 | 2026-06-24 |
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
+| [3Sum](https://leetcode.com/problems/3sum/submissions/2070962526/) | 🟡 Medium | python3 | 2026-07-17 |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2067260133/) | 🟡 Medium | python3 | 2026-07-14 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2048362030/) | 🟡 Medium | python3 | 2026-06-28 |
