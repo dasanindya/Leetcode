@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 53
 - **Easy:** 16 🟢
-- **Medium:** 34 🟡
+- **Medium:** 35 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/2070971526/) | 🟡 Medium | python3 | 2026-07-17 |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/2035780757/) | 🟡 Medium | python3 | 2026-06-17 |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/2077000646/) | 🟡 Medium | python3 | 2026-07-22 |
+| [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/2077004805/) | 🟡 Medium | python3 | 2026-07-22 |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/submissions/2030540774/) | 🟡 Medium | python3 | 2026-06-12 |
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2038038573/?envType=daily-question&envId=2026-06-18) | 🟡 Medium | python3 | 2026-06-18 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2024810354/) | 🟡 Medium | python3 | 2026-06-07 |
