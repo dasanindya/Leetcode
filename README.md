@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 53
+- **Total Problems Solved:** 54
 - **Easy:** 16 🟢
-- **Medium:** 35 🟡
+- **Medium:** 36 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/2030325125/) | 🟡 Medium | python3 | 2026-06-12 |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/submissions/2067967261/) | 🟡 Medium | python3 | 2026-07-15 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2077017618/) | 🟡 Medium | python3 | 2026-07-22 |
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/submissions/2039313311/?envType=daily-question&envId=2026-06-20) | 🔴 Hard | python3 | 2026-06-20 |
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2037331530/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | python3 | 2026-06-18 |
 
