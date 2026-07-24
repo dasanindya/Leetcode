@@ -1,7 +1,7 @@
 #
 # Problem: 22. Generate Parentheses
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/generate-parentheses/submissions/2079400558/
+# Link: https://leetcode.com/problems/generate-parentheses/submissions/2079521119/
 # Language: python3
 # Date: 2026-07-24
 
