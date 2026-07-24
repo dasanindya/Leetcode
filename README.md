@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 55
+- **Total Problems Solved:** 56
 - **Easy:** 16 🟢
-- **Medium:** 37 🟡
+- **Medium:** 38 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -54,6 +54,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/2070962526/) | 🟡 Medium | python3 | 2026-07-17 |
+| [46. Permutations](https://leetcode.com/problems/permutations/submissions/2079519890/) | 🟡 Medium | python3 | 2026-07-24 |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2067260133/) | 🟡 Medium | python3 | 2026-07-14 |
 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/submissions/2071074939/) | 🟡 Medium | python3 | 2026-07-17 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2026803290/) | 🟡 Medium | python3 | 2026-06-08 |
