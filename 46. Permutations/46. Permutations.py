@@ -1,13 +1,14 @@
 #
 # Problem: 46. Permutations
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/permutations/submissions/2079519890/
+# Link: https://leetcode.com/problems/permutations/
 # Language: python3
 # Date: 2026-07-24
 
 
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        # divide nums into two parts: processed elements on the left, and available elements on the right.
         result = []
         
         def backtrack(first=0):
