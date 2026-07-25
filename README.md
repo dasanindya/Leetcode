@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 63
+- **Total Problems Solved:** 64
 - **Easy:** 19 🟢
-- **Medium:** 42 🟡
+- **Medium:** 43 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2026774899/) | 🟢 Easy | python3 | 2026-06-08 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/2070971526/) | 🟡 Medium | python3 | 2026-07-17 |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/2035780757/) | 🟡 Medium | python3 | 2026-06-17 |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2080826921/) | 🟡 Medium | python3 | 2026-07-25 |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/2077000646/) | 🟡 Medium | python3 | 2026-07-22 |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/2077004805/) | 🟡 Medium | python3 | 2026-07-22 |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/submissions/2030540774/) | 🟡 Medium | python3 | 2026-06-12 |
