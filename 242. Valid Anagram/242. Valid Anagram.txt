@@ -1,0 +1,16 @@
+/*
+ * Problem: 242. Valid Anagram
+ * Difficulty: Easy
+ * Link: https://leetcode.com/problems/valid-anagram/submissions/2080668000/
+ * Language: Choose a type
+ * Date: 2026-07-25
+ */
+
+from collections import Counter
+    def isAnagram(self, s: str, t: str) -> bool:
+        
+class Solution:
+
+        return Counter(s) == Counter(t)
+        
+
