@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 66
+- **Total Problems Solved:** 67
 - **Easy:** 19 🟢
-- **Medium:** 44 🟡
+- **Medium:** 45 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -58,6 +58,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/2071042937/) | 🟡 Medium | python3 | 2026-07-17 |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | python3 | 2026-07-17 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | python3 | 2026-07-25 |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/submissions/2082160801/) | 🟡 Medium | python3 | 2026-07-26 |
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/2070962526/) | 🟡 Medium | python3 | 2026-07-17 |
