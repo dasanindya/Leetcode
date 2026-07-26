@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 64
+- **Total Problems Solved:** 65
 - **Easy:** 19 🟢
 - **Medium:** 43 🟡
-- **Hard:** 2 🔴
+- **Hard:** 3 🔴
 
 ## 📝 Problems
 
@@ -77,6 +77,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2077017618/) | 🟡 Medium | python3 | 2026-07-22 |
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/submissions/2039313311/?envType=daily-question&envId=2026-06-20) | 🔴 Hard | python3 | 2026-06-20 |
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2037331530/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | python3 | 2026-06-18 |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/2082017749/) | 🔴 Hard | python3 | 2026-07-26 |
 
 ---
 
