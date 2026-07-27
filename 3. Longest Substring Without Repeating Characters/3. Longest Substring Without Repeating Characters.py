@@ -1,7 +1,7 @@
 #
 # Problem: 3. Longest Substring Without Repeating Characters
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2083981527/
+# Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 # Language: python3
 # Date: 2026-07-27
 
