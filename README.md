@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 67
+- **Total Problems Solved:** 68
 - **Easy:** 19 🟢
-- **Medium:** 45 🟡
+- **Medium:** 46 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/2079521119/) | 🟡 Medium | python3 | 2026-07-24 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2058619006/) | 🟡 Medium | python3 | 2026-07-07 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/2044173533/) | 🟡 Medium | python3 | 2026-06-24 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2083981527/) | 🟡 Medium | python3 | 2026-07-27 |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/2071042937/) | 🟡 Medium | python3 | 2026-07-17 |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | python3 | 2026-07-17 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | python3 | 2026-07-25 |
