@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Link: https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2083997969/
 # Language: python3
-# Date: 2026-07-27
+# Date: 2026-07-28
 
 
 class Solution:
