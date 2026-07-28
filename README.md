@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 69
+- **Total Problems Solved:** 70
 - **Easy:** 19 🟢
-- **Medium:** 47 🟡
+- **Medium:** 48 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/2070962526/) | 🟡 Medium | python3 | 2026-07-17 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2083997969/) | 🟡 Medium | python3 | 2026-07-27 |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2083997969/) | 🟡 Medium | python3 | 2026-07-28 |
 | [46. Permutations](https://leetcode.com/problems/permutations/submissions/2079519890/) | 🟡 Medium | python3 | 2026-07-24 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2080700315/) | 🟡 Medium | python3 | 2026-07-25 |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2067260133/) | 🟡 Medium | python3 | 2026-07-14 |
