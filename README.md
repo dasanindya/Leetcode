@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 72
-- **Easy:** 20 🟢
+- **Total Problems Solved:** 73
+- **Easy:** 21 🟢
 - **Medium:** 49 🟡
 - **Hard:** 3 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/2080682124/) | 🟢 Easy | python3 | 2026-07-25 |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/2178820225/) | 🟢 Easy | python3 | 2026-10-22 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2026490102/) | 🟢 Easy | python3 | 2026-06-08 |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/submissions/2029169070/) | 🟢 Easy | python3 | 2026-06-11 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2024800035/) | 🟢 Easy | python3 | 2026-06-07 |
