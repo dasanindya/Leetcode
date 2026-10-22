@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 73
-- **Easy:** 21 🟢
+- **Total Problems Solved:** 74
+- **Easy:** 22 🟢
 - **Medium:** 49 🟡
 - **Hard:** 3 🔴
 
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/2080668000/) | 🟢 Easy | Choose a type | 2026-07-25 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/2080670027/) | 🟢 Easy | python3 | 2026-07-25 |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | 🟢 Easy | python3 | 2026-10-21 |
+| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | python3 | 2026-10-22 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/2026779426/) | 🟢 Easy | python3 | 2026-06-08 |
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2029147969/) | 🟢 Easy | python3 | 2026-06-11 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | python3 | 2026-06-07 |
