@@ -1,7 +1,7 @@
 #
 # Problem: 102. Binary Tree Level Order Traversal
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2179887536/
+# Link: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2179887996/
 # Language: python3
 # Date: 2026-10-23
 
@@ -12,6 +12,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+from collections import deque
+
 class Solution:
     def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
         if not root:
