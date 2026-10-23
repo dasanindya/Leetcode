@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 75
+- **Total Problems Solved:** 76
 - **Easy:** 22 🟢
-- **Medium:** 50 🟡
+- **Medium:** 51 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -48,6 +48,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2034977089/) | 🟡 Medium | python3 | 2026-06-16 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2040987681/?envType=daily-question&envId=2026-06-21) | 🟡 Medium | python3 | 2026-06-21 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-06-08 |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2179905917/) | 🟡 Medium | python3 | 2026-10-23 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2030554361/) | 🟡 Medium | python3 | 2026-06-12 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | python3 | 2026-06-15 |
