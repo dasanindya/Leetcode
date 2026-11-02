@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 76
+- **Total Problems Solved:** 77
 - **Easy:** 22 🟢
-- **Medium:** 51 🟡
+- **Medium:** 52 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -86,6 +86,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2029195157/) | 🟡 Medium | python3 | 2026-06-11 |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2077017618/) | 🟡 Medium | python3 | 2026-07-22 |
 | [Unknown Problem](https://leetcode.com/problems/balanced-binary-tree/submissions/2177883954/) | 🟡 Medium | python3 | 2026-10-21 |
+| [Unknown Problem](https://leetcode.com/problems/course-schedule/submissions/2187480266/) | 🟡 Medium | python3 | 2026-11-02 |
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/submissions/2039313311/?envType=daily-question&envId=2026-06-20) | 🔴 Hard | python3 | 2026-06-20 |
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2037331530/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | python3 | 2026-06-18 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/2082017749/) | 🔴 Hard | python3 | 2026-07-26 |
