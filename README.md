@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 77
+- **Total Problems Solved:** 78
 - **Easy:** 22 🟢
-- **Medium:** 52 🟡
+- **Medium:** 53 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -50,6 +50,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-06-08 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2179905917/) | 🟡 Medium | python3 | 2026-10-23 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2030554361/) | 🟡 Medium | python3 | 2026-06-12 |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/submissions/2188955615/) | 🟡 Medium | python3 | 2026-11-03 |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | python3 | 2026-06-06 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | python3 | 2026-06-15 |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | 🟡 Medium | python3 | 2026-06-06 |
