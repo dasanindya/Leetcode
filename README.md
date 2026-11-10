@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 78
+- **Total Problems Solved:** 79
 - **Easy:** 22 🟢
-- **Medium:** 53 🟡
+- **Medium:** 54 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -67,6 +67,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | python3 | 2026-07-25 |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/submissions/2082160801/) | 🟡 Medium | python3 | 2026-07-26 |
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034690837/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | python3 | 2026-06-16 |
+| [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/submissions/2193090665/) | 🟡 Medium | python3 | 2026-11-10 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/2070962526/) | 🟡 Medium | python3 | 2026-07-17 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2083997969/) | 🟡 Medium | python3 | 2026-07-27 |
