@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 79
+- **Total Problems Solved:** 80
 - **Easy:** 22 🟢
-- **Medium:** 54 🟡
+- **Medium:** 55 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/submissions/2193090665/) | 🟡 Medium | python3 | 2026-11-10 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2030340574/) | 🟡 Medium | python3 | 2026-06-12 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/2070962526/) | 🟡 Medium | python3 | 2026-07-17 |
+| [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2198947095/) | 🟡 Medium | python3 | 2026-11-18 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2083997969/) | 🟡 Medium | python3 | 2026-07-27 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2083997969/) | 🟡 Medium | python3 | 2026-07-28 |
 | [46. Permutations](https://leetcode.com/problems/permutations/submissions/2079519890/) | 🟡 Medium | python3 | 2026-07-24 |
